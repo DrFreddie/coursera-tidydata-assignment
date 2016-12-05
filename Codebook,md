@@ -13,7 +13,7 @@ This document describes the code inside `run_analysis.R`.
 * Specifically contains those values that are either mean or std
 * Using featuresWanted allows for subsectioning during importing of the main datasets for train and tests
 
-## rbind(train, test)
+##combined <- rbind(train, test)
 
 * Merged the two datasets together
 
